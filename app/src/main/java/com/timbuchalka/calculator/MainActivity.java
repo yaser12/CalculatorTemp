@@ -171,9 +171,6 @@ public class MainActivity extends AppCompatActivity {
     public String getName(){
         return  "I am yaser ";
     }
-    public void getme(){
-
-    }
     // this is pull testing
     // this is pull testing in Android Studio by yaser
 }
